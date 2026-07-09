@@ -33,7 +33,7 @@ The game contains multiple levels with increasing difficulty and different track
 ![Opening Screen](screenshots/Opening.jpeg)
 
 ### Practice Level
-![Practice Level](screenshots/practice-level.jpeg)
+![Practice Level](screenshots/Practice-level.jpeg)
 
 ### Level 8
 ![Level 8](screenshots/level-8.jpeg)
