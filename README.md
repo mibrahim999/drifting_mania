@@ -43,8 +43,9 @@ The game contains multiple levels with increasing difficulty and different track
 
 ## Gameplay Video
 
-Gameplay video available in the repository.
-[Download / Watch Gameplay Video](gameplay/Gameplay.mp4)
+Gameplay footage is available in the repository:
+
+[Gameplay.mp4](./gameplay/Gameplay.mp4)
 
 ## What I Learned
 
