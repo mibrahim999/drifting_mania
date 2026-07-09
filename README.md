@@ -45,8 +45,6 @@ The game contains multiple levels with increasing difficulty and different track
 
 Gameplay footage is available in the repository:
 
-[Gameplay.mp4](./gameplay/Gameplay.mp4)
-
 ## What I Learned
 
 - Unity Game Engine fundamentals
