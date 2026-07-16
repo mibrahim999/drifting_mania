@@ -41,9 +41,7 @@ The game contains multiple levels(14) with increasing difficulty and different t
 ### Level 12
 ![Level 12](screenshots/level-12.jpeg)
 
-## Gameplay Video
-
-Gameplay footage is available in the repository:
+## Gameplay Vid
 
 ## What I Learned
 
